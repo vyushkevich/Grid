@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    color: yellow;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    border: 1px;
+    border-radius: 1px;
+    border-color: brown;
+}
+
+#gummy1 {
+    width: 420px;
+    height: 200px;
+    top: 40px;
+    left: 537px;
+    border: 1px;
+    border-color: black;
+    outline-offset: 5px ;
+    padding-bottom: 30px;
+}
+
+#gummy2 {
+    width: 350px;
+    height: 440px;
+    top: 280px;
+    left: 430px;
+    border: 1px;
+    border-color: black;
+    outline-offset: 5px ;
+    padding-top: 20px;
+}
+
+#gummy3 {
+    width: 520px;
+    height: 200px;
+    top: 784px;
+    left: 437px;
+    border: 1px;
+    border-color: black;
+    outline-offset: 5px ;
+}
+
+#gummy4 {
+    width: 335px;
+    height: 200px;
+    top: 536px;
+    left: 67px;
+    border: 1px;
+    border-color: black;
+    outline-offset: 5px ;
+    padding-bottom: 40px;
+}
+
+#gummy5 {
+    width: 150px;
+    height: 200px;
+    top: 288px;
+    left: 807px;
+    border: 1px;
+    border-color: black;
+    padding-bottom: 35px;
+}
+
+#gummy6 {
+    width: 150px;
+    height: 200px;
+    top: 536px;
+    left: 807px;
+    border: 1px;
+    border-color: black;
+    padding-bottom: 35px;
+}
+
+#gummy7 {
+    width: 300px;
+    height: 200px;
+    top: 784px;
+    left: 252px;
+    border: 1px;
+    border-color: black;
+    padding-bottom: 35px;
+}
+
+#gummy8 {
+    width: 200px;
+    height: 200px;
+    top: 780px;
+    left: 670px;
+    border: 1px;
+    border-color: black;
+}
