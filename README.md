@@ -1,4 +1,4 @@
-# Grid
+# Images Gallery
 
 task name - Images gallery
 
